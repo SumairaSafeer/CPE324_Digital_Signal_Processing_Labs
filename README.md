@@ -81,3 +81,11 @@ CPE324_Digital_Signal_Processing_Labs/
 └── Lab10_Solved.pdf
 
 
+## 👩‍🎓 Author
+
+**Sumaira Safeer**  
+Computer Engineer 
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
+
+
